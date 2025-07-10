@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="GlobeTrek Adventures offers unforgetable group and private tours to top travel destinations with customizable packages and exciting i tineraries.">
+    <title>GlobeTrek Adventures</title>
+</head>
+<body>
+  <h1>Explore Top Travel Destination</h1>
+  <p>Join GlobeTrek Adventures as we take you to breathtaking destinations around the world with tailored travel experiences.</p>
+  <h2>Packages</h2>
+  <p>We offer both group and private tour packages to suit travel style and budget.</p>
+  <ul>
+    <li><a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a></li>
+    <li><a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a></li>
+  </ul>
+  <h2>Top Itineraries</h2>
+  <figure>
+    <a href="https://www.freecodecamp.org/learn" target="_blank">
+    <img src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg" alt="Colosseum in Rome" width="300">
+    </a>
+    <figcaption>Historical Rome Experience</figcaption>
+  </figure>
+  <figure>
+    <a href="https://www.freecodecamp.org/learn" target="_blank">
+    <img src="https://cdn.freecodecamp.org/curriculum/labs/alps.jpg" alt="Snowy Alps Mountain" width="300">
+    </a>
+    <figcaption>Adventure in the Alps</figcaption>
+  </figure>
+  <figure>
+    <a href="https://www.freecodecamp.org/learn" target="_blank">
+    <img src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg" alt="Miami Beach" width="300">
+    </a>
+    <figcaption>Relax on Miami Beach</figcaption>
+  </figure>
+</body>
+</html>

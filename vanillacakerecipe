@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Vanilla Cake Recipe</title>
+    </head>
+    <body>
+      <h1>Vanilla Cake Recipe</h1>
+      <p>Simple Vanilla Cake Recipe</p>
+      <h2>Ingredients</h2>
+      <ul>
+        <li>2 cups (315g) all purpose flour</li>
+        <li>2 tsp baking powder</li>
+          <li>1 tsp salt</li>
+          <li>1 cup (226g) unsalted butter (softened)</li>
+        <li>2 cups (350g) granulated sugar</li>
+          <li>4 large eggs</li>
+          <li>1 tbsp vanilla extract</li>
+          <li>1 cup (240ml) whole milk</li>
+      </ul>
+      <h2>Instructions</h2>
+      <ol>
+        <li>Preheat oven to 175°c (350°f).  Grease and flour two 9-inch round cake pans.</li>
+          <li>In a bowl,whisk together flour ,baking powder and salt</li>
+          <li>In another large bowl,beat the butter and sugar until light and fluffy.</li>
+          <li>Add eggs one at a time, beating well after each. Stir in the vanila extract.</li>
+          <li>Gradually add the dry ingredients to the wet mixture ,alternating with the milk.Mix until just combined.</li>
+          <li>Divide the batter evenly between the pans. Bake for 25-30 minutes.</li>
+          <li>cool the cakes in the pans for 10 minutes, then transfer to a wire rack to cool completely.</li>
+      </ol>
+      <img src="https://upload.wikimepedia.org/wikipedia/commons/thumb/7/73/vanilla_Cake_Slice.jpg" alt="vanilla Cake">
+</body>
+</html>
